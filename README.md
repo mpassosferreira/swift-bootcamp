@@ -1,4 +1,4 @@
-# POO - Encapsulation using Swift
+# Swift Bootcamp
 
 [![IDE](https://img.shields.io/badge/Xcode-11.7-blue.svg)](https://developer.apple.com/xcode/)
 [![Language](https://img.shields.io/badge/swift-5-orange.svg)](https://swift.org)
@@ -40,9 +40,9 @@ Encapsulation means binding object state(fields) and behaviour(methods) together
 ```sh
 git clone https://github.com/mpassosferreira/swift-bootcamp.git
 ```
-2. Open folder \poo-encapsulation and double-click the file encapsulation.playground.
+2. Check README.md into each folder.
 
-3. Run all the code, you should get a result equal to the image above.
+3. I hope it helps you.
 
 ### Contributing
 
