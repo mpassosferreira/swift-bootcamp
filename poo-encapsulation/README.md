@@ -28,7 +28,7 @@ This is a simples example of encapsulation concept.
   
 ### About 
 
-Encapsulation means binding object state(fields) and behaviour(methods) together. The whole idea behind encapsulation is to hide the implementation details from users. If a data member is private it means it can only be accessed within the same class. This example was coded to practice the concept using Swift language.
+Encapsulation means binding object state(fields) and behaviour(methods) together. The whole idea behind encapsulation is to hide the implementation details from users. If a data member is private it means it can only be accessed within the same class.
 
 ### Requirements
 
