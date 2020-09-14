@@ -94,30 +94,6 @@ class Seller {
         return accountBalance
     }
     
-    /*
-    func vender(quantidadeDePecas: Int, tipoDePeca: String) {
-        if quantidadeDePecas >= 3 && tipoDePeca == "Terno" {
-            let descontoTerno = terno - (quantidadeDePecas * 50)
-            setAccountBalance(accountBalance: self.getAccountBalance() + descontoTerno)
-        } else if quantidadeDePecas < 3 && tipoDePeca == "Terno" {
-            setAccountBalance(accountBalance: self.getAccountBalance() + (terno * quantidadeDePecas))
-        }
-        
-        if quantidadeDePecas >= 5 && tipoDePeca == "vestido" {
-            print("parabens voce ganhou um Véu de brinde")
-            vendaVestido = quantidadeDePecas * vestido
-            setAccountBalance(accountBalance: self.getAccountBalance() + vendaVestido)
-        } else if quantidadeDePecas < 5 && tipoDePeca == "vestido" {
-            vendaVestido = quantidadeDePecas * vestido
-            setAccountBalance(accountBalance: self.getAccountBalance() + vendaVestido)
-        }
-        
-        if quantidadeDePecas == 2 && tipoDePeca == "bone" {
-            print("parabens voce ganhou um boné de brinde")
-            setAccountBalance(accountBalance: self.getAccountBalance() + bone)
-        }
-    }*/
-    
     func addSell(productTypeEnum: ProductTypeEnum, quantity: Int) {
         self.sell.add(productTypeEnum: productTypeEnum, quantity: quantity)
     }
