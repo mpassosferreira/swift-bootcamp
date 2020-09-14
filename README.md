@@ -14,7 +14,6 @@
 
 <p align="center">
   <p align="center">
-This is a simples example of encapsulation concept.
     <br />
     <br />
     <a href="https://github.com/mpassosferreira/swift-bootcamp/issues">Report Bug</a>
