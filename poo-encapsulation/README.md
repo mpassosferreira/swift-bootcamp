@@ -1,4 +1,4 @@
-# POO - Inheritance using Swift
+# POO - Encapsulation using Swift
 
 [![IDE](https://img.shields.io/badge/Xcode-11.7-blue.svg)](https://developer.apple.com/xcode/)
 [![Language](https://img.shields.io/badge/swift-5-orange.svg)](https://swift.org)
@@ -22,7 +22,7 @@ This is a simples example of encapsulation concenpt.
     <a href="https://github.com/mpassosferreira/KidsMakeMath/issues">Request Feature</a>
     <br />
     <br />
-    <img src="poo-encapsulation.png" alt="POO - Inheritance" width="450" height="450">
+    <img src="poo-encapsulation.png" alt="POO - Inheritance" width="500" height="450">
   </p>
  </p>
   
