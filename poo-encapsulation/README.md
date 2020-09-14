@@ -14,7 +14,7 @@
 
 <p align="center">
   <p align="center">
-This is a simples example of encapsulation concenpt.
+This is a simples example of encapsulation concept.
     <br />
     <br />
     <a href="https://github.com/mpassosferreira/KidsMakeMath/issues">Report Bug</a>
